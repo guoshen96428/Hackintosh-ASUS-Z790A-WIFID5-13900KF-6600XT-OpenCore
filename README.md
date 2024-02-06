@@ -12,6 +12,3 @@
 - - -
 自己按照https://dortania.github.io/OpenCore-Install-Guide/ 配置的，没有多余文件
 除了隔空投送，随航不能用，一切完美
-![img.png](img/img.png)
-![img_1.png](img/img_1.png)
-![img_2.png](img/img_2.png)
